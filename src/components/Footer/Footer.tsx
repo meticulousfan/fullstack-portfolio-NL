@@ -1,6 +1,6 @@
 import { Container } from "./styles";
 
-import linkedinIcon from "../../assets/linkedin.png";
+// import linkedinIcon from "../../assets/linkedin.png";
 import githubIcon from "../../assets/github.png";
 // import instagramIcon from "../../assets/instagram.png";
 // import discordIcon from "../../assets/discord.png";
