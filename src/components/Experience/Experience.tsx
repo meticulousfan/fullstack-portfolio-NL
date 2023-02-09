@@ -35,20 +35,25 @@ export function Experience() {
               </div> */}
             </header>
             <div className="body">
-              <h3>Frontend Developer</h3>
+              <h3>Full Stack Engineer</h3>
               <ul>
                 <li>
-                  Created successful websites that met requirements for
-                  objectives such as load speed and design.
+                  Architected and implemented the analytic system to display
+                  data extracted from an AI engine using React, TypeScript and
+                  D3.js
                 </li>
                 <li>
-                  Supported continuous improvement by investigating alternatives
-                  and technologies for review.
+                  Established user-friendly optimized check-out page, resulting
+                  in a 20% increase in user clicks and 30% in customer purchases
+                  (React / NextJS)
                 </li>
-                <li>Brought mock-ups to life with HTML, CSS and JavaScript.</li>
                 <li>
-                  Designed software tools and subsystems to support software
-                  reuse and domain analysis.
+                  Built microservice backend application with NestJS, TypeORM
+                  and PostgreSQL.
+                </li>
+                <li>
+                  Built the UI of the market place while collaborating with
+                  smart contract engineers (React / TypeScript / MUI).
                 </li>
               </ul>
             </div>
@@ -101,27 +106,28 @@ export function Experience() {
               </div> */}
             </header>
             <div className="body">
-              <h3>Full Stack Engineer</h3>
+              <h3>Full Stack Developer</h3>
               <ul>
                 <li>
-                  Monitored equipment functionality to verify optimal
-                  performance and adjust system controls
+                  Developed PWA with Vue, JavaScript for healthcare & fitness
+                  application
                 </li>
                 <li>
-                  Completed code debugging and implemented fixes to resolve
-                  problems based on priority system.
+                  Orchestrated deployment of web applications using Docker,
+                  Kubernetes and AWS
                 </li>
                 <li>
-                  Updated the Vue.JS made client-side into a React-based website
-                  with better user experience.
+                  Optimized SEO in React app for e-commerce site leading to 25%
+                  increase in page views per session via SSR in Next.js and
+                  Gatsby
                 </li>
                 <li>
-                  Produced and maintained system requirements, designs and
-                  resource inventory documentation.
+                  Constructed a one-to-one live video shopping platform
+                  utilizing Vue, Nuxt.js, TypeScript and GraphQL
                 </li>
                 <li>
-                  Interpreted briefs to create high-quality coding that
-                  functions according to specifications.
+                  Maintained backend codebase with Express, MySQL and
+                  collaborated with product team to realize promised features
                 </li>
               </ul>
             </div>
@@ -167,27 +173,26 @@ export function Experience() {
               </div> */}
             </header>
             <div className="body">
-              <h3>React Developer</h3>
+              <h3>Web Developer</h3>
               <ul>
                 <li>
-                  Communicated complex computer information in terminology that
-                  non-technical individuals could easily understand
+                  Restructured APIs to boost trend prediction accuracy by 70%
                 </li>
                 <li>
-                  Identified and communicated potential risks and roadblocks to
-                  properly execute projects
+                  Involved in a real estate project that gives customers the
+                  ability to find perfect apartments
                 </li>
                 <li>
-                  Researched alternative solutions to problem spaces to decide
-                  best technical approaches
+                  Successfully implemented the UI and related tests of a
+                  company's ERP system (React / Cypress)
                 </li>
                 <li>
-                  Participated in code review meetings, providing input on bugs,
-                  inefficiencies and potential solutions to emergent issues
+                  Built an application to browse and watch videos using Next.js
+                  and streaming technology
                 </li>
                 <li>
-                  Integrated innovative development techniques to shorten
-                  turnaround times and spur customer loyalty
+                  Participated in the initial wave of developers learning and
+                  utilizing React and Vue
                 </li>
               </ul>
             </div>
@@ -199,71 +204,6 @@ export function Experience() {
                 <li>SSR</li>
                 <li>GraphQL</li>
                 <li>Vue/Quasar</li>
-              </ul>
-            </footer>
-          </div>
-        </ScrollAnimation>
-
-        <ScrollAnimation animateIn="flipInX">
-          <div className="project">
-            <header>
-              {/* <svg
-                width="50"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="#23ce6b "
-                stroke-width="1"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <title>Folder</title>
-                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
-              </svg>
-              <div className="project-links">
-                <a
-                  href="https://joaotulio.vercel.app/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src={externalLinkIcon} alt="Visitar site" />
-                </a>
-              </div> */}
-            </header>
-            <div className="body">
-              <h3>Full Stack Developer</h3>
-              <ul>
-                <li>
-                  Converted native app to into React based website using
-                  Typescript and Next. languages
-                </li>
-                <li>
-                  Converted native app to into React based website using
-                  Typescript and Next.JS
-                </li>
-                <li>
-                  Installed front-end and back-end software applications and
-                  performed bug fixes.
-                </li>
-                <li>
-                  Assisted other developers with coding, troubleshooting and
-                  debugging.
-                </li>
-                <li>
-                  Built professional relationships with team and clients to help
-                  speed communication and attain project results
-                </li>
-              </ul>
-            </div>
-            <footer>
-              <ul className="tech-list">
-                <li>React</li>
-                <li>VueJs</li>
-                <li>NestJs</li>
-                <li>GraphQL</li>
-                <li>TypeORM</li>
-                <li>JavaScript</li>
               </ul>
             </footer>
           </div>

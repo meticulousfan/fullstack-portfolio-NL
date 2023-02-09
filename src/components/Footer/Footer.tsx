@@ -1,6 +1,6 @@
 import { Container } from "./styles";
 
-// import linkedinIcon from "../../assets/linkedin.png";
+import linkedinIcon from "../../assets/linkedin.png";
 import githubIcon from "../../assets/github.png";
 // import instagramIcon from "../../assets/instagram.png";
 // import discordIcon from "../../assets/discord.png";
@@ -19,16 +19,16 @@ export function Footer() {
       </div>
 
       <div className="social-media">
-        {/* <a
-          href="https://www.linkedin.com/in/elijahthomas5515/"
+        <a
+          href="https://www.linkedin.com/in/lassewang1119"
           target="_blank"
           rel="noreferrer"
         >
           <img src={linkedinIcon} alt="Linkedin" />
-        </a> */}
+        </a>
 
         <a
-          href="https://github.com/meticulousfan"
+          href="https://github.com/gungholasse"
           target="_blank"
           rel="noreferrer"
         >
